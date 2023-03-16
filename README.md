@@ -10,7 +10,7 @@
 
 <picture> <img align="right" src="https://cdn-icons-gif.flaticon.com/8722/8722598.gif" width = 400px></picture>
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Python%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
