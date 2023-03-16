@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://cdn-icons-png.flaticon.com/512/5486/5486639.png" width =40px></picture> **About me**
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="https://cdn-icons-gif.flaticon.com/8722/8722598.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
@@ -23,7 +23,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://cdn-icons-gif.flaticon.com/8722/8722699.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
@@ -35,10 +35,10 @@
 
 - **Softwares and Tools**:
 
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+    <img src="https://cdn.discordapp.com/attachments/1080332679578394644/1086001527962992650/visual-studio.png" width="40" height="40" alt="VSC"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width="40" height="40" alt="GitHub"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/8695/8695385.png" width="40" height="40" alt="Git"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" width="40" height="40" alt="Sublime"/>
 
 
 
@@ -48,7 +48,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://cdn-icons-gif.flaticon.com/7211/7211797.gif)" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -69,8 +69,8 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a   target="_blank" href="https://www.e-z.bio/samuel/">
+			<img src="https://cdn-icons-gif.flaticon.com/6416/6416353.gif" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
@@ -87,8 +87,3 @@
 	
 
 </div>
-
-
-------
-[Mahdiiye](https://github.com/Mahdiiye)
-Last Edited on: 19/01/2023
