@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on Lux Selfbot
+- 🔭 I’m currently working on Woofernet
 - 🌱 I’m currently learning JavaScript and GoLang
 - 👯 I’m looking to collaborate on your open source projects
 - 💬 Ask me about Python, or any of my projects
